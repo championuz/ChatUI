@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>item 14</key>
+	<string>SimpleLineIcons.ttf</string>
+	<key>item 13</key>
+	<string>Octicons.ttf</string>
+	<key>item 12</key>
+	<string>Foundation.ttf</string>
+	<key>item 11</key>
+	<string>MaterialCommunityIcons.ttf</string>
+	<key>item 10</key>
+	<string>MaterialIcons.ttf</string>
+	<key>item 9</key>
+	<string>AntDesign.ttf</string>
+	<key>item 8</key>
+	<string>Entypo.ttf</string>
+	<key>item 7</key>
+	<string>EvilIcons.ttf</string>
+	<key>item 6</key>
+	<string>Feather.ttf</string>
+	<key>item 5</key>
+	<string>FontAwesome5_Brands.ttf</string>
+	<key>item 4</key>
+	<string>FontAwesome5_Regular.ttf</string>
+	<key>item 3</key>
+	<string>FontAwesome5_Solid.ttf</string>
+	<key>item 2</key>
+	<string>Fontisto.ttf</string>
+	<key>item 1</key>
+	<string>FontAwesome.ttf</string>
+	<key>item 0</key>
+	<string>Ionicons.ttf</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>ChatUI</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string></string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

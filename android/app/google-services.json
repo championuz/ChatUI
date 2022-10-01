@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536275999760",
+    "project_id": "rn-chatui",
+    "storage_bucket": "rn-chatui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536275999760:android:e9d0f1f6091ed1a2897e95",
+        "android_client_info": {
+          "package_name": "com.chatui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536275999760-hj56hbcmpmkc95ebklv3gekmofbpgavp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGQqot0iYOFi0lvp6Yuu24Ij6lJ2xw2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536275999760-hj56hbcmpmkc95ebklv3gekmofbpgavp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536275999760-3ieslgdauap2in77csbnlhicvb9s4407.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ChatUI"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
